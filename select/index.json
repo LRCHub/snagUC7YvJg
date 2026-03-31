@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Over U, Goodbye (Seeun x J)",
+  "base_artist": "STAYC",
+  "createdAt": "2026-03-31T14:04:26.960879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Over U, Goodbye (Seeun x J)",
+      "artist": "STAYC",
+      "has_synced": false,
+      "path": "select/01_Over_U,_Goodbye_(Seeun_x_J)_STAYC.txt"
+    }
+  ]
+}
